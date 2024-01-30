@@ -1,0 +1,21 @@
+.header-content
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.right
+{
+    width: 100%;
+}
+.button
+{
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.display-announcement
+{
+    background: #dfdfdf99;
+}

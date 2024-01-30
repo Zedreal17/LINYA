@@ -1,0 +1,47 @@
+.card
+{
+    border: none !important;
+}
+.card .card-body button
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 24px;
+    background-color: #213855;
+    color: #fff;
+}
+
+.img-button
+{
+    width: 25%;
+}
+.serving-number
+{
+    font-size:40px;
+    margin: 25px 0;
+    font-weight: 600;
+}
+td i
+{
+    font-size: 25px;
+}
+.form-control
+{
+    border: none !important;
+}
+a
+{
+    text-decoration: none;
+}
+thead
+{
+    background-color: #0d1835;
+    height: 50px;
+    color:white;
+}
+tbody td
+{
+    height: 50px;
+
+}
